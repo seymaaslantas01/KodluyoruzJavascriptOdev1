@@ -1,0 +1,43 @@
+#body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.text {
+    position: relative;
+    color: #e98208;
+    font-size: 50px;
+    font-family: 'Verdana';
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#time {
+    position: relative;
+    color: #e98208;
+    font-size: 60px;
+    font-family: 'Verdana';
+    letter-spacing: 7px;
+}
+
+#day {
+    position: relative;
+    color: #e98208;
+    font-size: 60px;
+    font-family: 'Verdana';
+    letter-spacing: 7px;
+    margin-left: 20px;
+}
+
+img {
+    margin-top: 120px;
+    width: 30%;
+    margin-bottom: 50px ;
+}
+#userName {
+    font-style:italic;
+    color: white;
+}
